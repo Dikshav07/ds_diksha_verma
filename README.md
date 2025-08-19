@@ -29,7 +29,7 @@ The objective is to merge sentiment data with trader records, perform explorator
 
 **Output**:  
 - `csv_files/merged_data.csv`
-
+- [merged data](https://drive.google.com/file/d/1BTSvI_0y1IQk84w_1lcTISbmE-Xz7yCb/view?usp=sharing)
 ---
 
 ## 🔍 Exploratory Data Analysis (Notebook 2)
@@ -83,3 +83,4 @@ Findings indicate a positive correlation between **Greed sentiment and profitabl
 
 
 📌 *This repo demonstrates the end-to-end workflow: from data preprocessing, merging, analysis, visualization, to insights.*  
+
