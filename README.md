@@ -49,6 +49,17 @@ The objective is to merge sentiment data with trader records, perform explorator
 
 ---
 
+---
+## ▶️ Run Notebooks
+
+You can directly run the notebooks in Google Colab:
+
+- [Notebook 1 – Data Preprocessing & Merging](https://colab.research.google.com/drive/1DGIovaVPQNzB9DtHo5yMjTXNB5MJPUcV?usp=sharing)  
+- [Notebook 2 – Exploratory Data Analysis](https://colab.research.google.com/drive/146NAmGWVLd491rwAcLOBYZ2VSIlvPjX_?usp=sharing)  
+
+
+
+---
 ## 📈 Key Insights
 - Traders showed **higher average PnL during Greed days** compared to Fear days.  
 - **More trades** occurred during Greed sentiment, suggesting increased market participation.  
@@ -83,4 +94,5 @@ Findings indicate a positive correlation between **Greed sentiment and profitabl
 
 
 📌 *This repo demonstrates the end-to-end workflow: from data preprocessing, merging, analysis, visualization, to insights.*  
+
 
